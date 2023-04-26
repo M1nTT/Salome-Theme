@@ -1,4 +1,4 @@
-# Salome-for-Typecho #
+# Salome-Theme #
 Salome-for-Typecho 主题模版
 
 ![image](https://github.com/M1nTT/Salome-Theme/blob/18f2e2e28829986601caffc3e504d2db0673f460/screenshot.png)
@@ -11,10 +11,9 @@ Salome-for-Typecho 主题模版
 
 ---
 
-#### 《莎乐美》
-—— 叶明新
-
-
+> #### 《莎乐美》
+> —— 叶明新
+> 
 > 莎乐美是希律王的继女
 > 
 > 长得非常漂亮
