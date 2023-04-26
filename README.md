@@ -49,6 +49,11 @@ Salome-for-Typecho 主题模版
 [https://blog.tongmingzhi.com](https://blog.tongmingzhi.com)
 
 
+### 使用方式
+
+将 Salome 文件夹放到 typecho/usr/themes，在后台页面-控制台-外观启用。
+
+
 ### License
 
 「Salome」移植自 shebaoting 的 Typecho 主题 「[重拾写作的乐趣](https://forum.typecho.org/viewtopic.php?f=5&t=12008)」
