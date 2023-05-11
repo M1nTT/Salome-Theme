@@ -140,6 +140,8 @@ h1, h2, h3, h4, h5, h6 {
       line-height: 2em;
       letter-spacing: 0.2px;
       color: #797979;}
+    .post .post_content p + p {
+      margin-top: 1.5em;}
       .post .post_content a {
         text-decoration: none;
         letter-spacing: 0.5px;
