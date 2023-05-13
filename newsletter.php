@@ -22,7 +22,7 @@
     <form action="https://tongmingzhi.us21.list-manage.com/subscribe/post?u=0e624b115b5d1899bf7065374&amp;id=ff98014394&amp;f_id=00c4afe1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
         <h2>邮件订阅博客 - Newsletter</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> 必须输入 </div>
+        <div class="indicates-required"><span class="asterisk">*</span> 为必填项 </div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL"> 邮箱地址 <span class="asterisk">*</span>
 </label>
