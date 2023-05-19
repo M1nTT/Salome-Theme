@@ -51,7 +51,13 @@ Salome-for-Typecho 主题模版
 
 ### 使用方式
 
-将 Salome 文件夹放到 typecho/usr/themes，在后台页面-控制台-外观启用。
+* [下载](https://github.com/M1nTT/Salome-Theme/releases/download/ver.0.1.0/Salome.zip)
+* 将 Salome 文件夹放到 typecho/usr/themes，在后台页面-控制台-外观启用。
+
+
+### 更新记录
+
+* 2023.04.27  Ver:0.1.0    初始版本
 
 
 ### License
