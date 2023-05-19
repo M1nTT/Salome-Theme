@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
               .header .site_title_container .description .sub_title {
                 font-weight: normal !important;
                 float: none !important;
-                font-family: 'PingHei', 'PingFang SC', ‘Helvetica Neue’, 'Work Sans', 'Hiragino Sans GB',
+                font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB',
                                 'Microsoft YaHei', SimSun !important; }
           .header .my_socials {
             list-style: none;
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
       text-transform: none;
       letter-spacing: 1px;
       font-size: 1.4rem;
-      line-height: 1;
+      line-height: 1.5;
       font-weight: 600;
       color: #1F1F1F;
       margin: 0px 0px 6px 0px; }
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
           color: rgba(0, 0, 0, 0.44);
           font-size: 14px; }
           .post .post_title span.date {
-            font-size: 12px; }
+            font-size: 14px; }
   .post .post_detail_title h2 {
     font-size: 1.5rem;
     font-weight: bold; }
@@ -151,6 +151,7 @@ h1, h2, h3, h4, h5, h6 {
         .post .post_content a:hover {
           color: #177CB0; 
           font-style: normal;}
+      
   .post .post_footer {
     padding: 20px 0 40px 0;
     border-bottom: 1px solid #F3F3F3; }
@@ -248,7 +249,6 @@ h1, h2, h3, h4, h5, h6 {
   .doc_comments .comment small {
     font-size: 70%; }
 
-
 .pagination {
   padding: 50px 0 60px 0;
   border-bottom: 1px solid #f2f2f2;
@@ -271,6 +271,8 @@ h1, h2, h3, h4, h5, h6 {
     float: left;}
   .pagination .next {
     float: right;}
+
+
 
 
 code {
@@ -306,7 +308,7 @@ code {
                 .about h3 {
                   color: #1F1F1F;
                   font-size: 1.1rem;
-                  font-weight: bold; }
+                  font-weight: bold;}
                   .about h4 {
                     color: #1F1F1F;
                     font-size: 1rem; }
@@ -508,18 +510,18 @@ textarea.textarea {
         color: #ED6243;
         padding: 11px; }
 
-  .twitter {
-    width: 32px;
-    height: 32px;
-    border-radius: 300px;
-    background-color: #59C0FD;
-    margin-right: 5px; }
-    .twitter a {
-      color: #fff;
-      padding: 9px;
-      cursor: pointer; }
-      .twitter a:hover {
-        color: #4B9ECE; }
+    .twitter {
+      width: 32px;
+      height: 32px;
+      border-radius: 300px;
+      background-color: #59C0FD;
+      margin-right: 5px; }
+      .twitter a {
+        color: #fff;
+        padding: 9px;
+        cursor: pointer; }
+        .twitter a:hover {
+          color: #4B9ECE; }
 
 .markdown {
   color: #555; }
@@ -553,13 +555,17 @@ textarea.textarea {
     margin: 2.5em 0 1.3em 0;
     color: #000; }
     .markdown h1 {
-      font-size: 1.35em; }
+      font-size: 1.35em;
+      line-height: 1.5em;}
       .markdown h2 {
-        font-size: 1.25em; }
+        font-size: 1.25em;
+        line-height: 1.5em;}
         .markdown h3 {
-          font-size: 1.15em; }
+          font-size: 1.15em;
+          line-height: 1.5em;}
           .markdown h4 {
-            font-size: 1.1em; }
+            font-size: 1.1em;
+            line-height: 1.5em;}
             .markdown pre {
               margin-top: 1.2em;
               margin-bottom: 2.2em;
@@ -795,16 +801,16 @@ padding: 10px 30px 10px 60px;
 
 /* Youtube嵌入代码
 
-例如：
+例如：注意，请移除 width="560" height="315"
+
 
 <div class="video-container">
 <iframe src="https://www.youtube-nocookie.com/embed/nPy_Z_FcUNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-注意，请移除 width="560" height="315"
+
 
 */
-
 .video-container {
     overflow: hidden;
     position: relative;
@@ -825,7 +831,8 @@ padding: 10px 30px 10px 60px;
     height: 100%;
 }
 
-/*底部分页*/
+/*底部分页
+*/
 
 .pagination {
     display: flex;
