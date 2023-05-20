@@ -8,7 +8,7 @@ Salome-for-Typecho 主题模版
 
 * 适用于 [Typecho](https://typecho.org) 博客
 * 专注于写作，排除多余干扰，优化文字显示。
-* 本人无任何代码基础，主题的编码工作由 ChatGPT 提供所有技术支持。
+* 本人无代码基础，编码工作由 ChatGPT 提供技术支持。
 
 ---
 
