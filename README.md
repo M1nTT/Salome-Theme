@@ -6,6 +6,7 @@ Salome-for-Typecho 主题模版
 
 ### 基本介绍
 
+* 适用于 [Typecho](https://typecho.org) 博客
 * 专注于写作，排除多余干扰，优化文字显示。
 * 本人无任何代码基础，主题的编码工作由 ChatGPT 提供所有技术支持。
 
