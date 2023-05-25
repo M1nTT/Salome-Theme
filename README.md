@@ -56,6 +56,30 @@ Salome-for-Typecho 主题模版
 * 将 Salome 文件夹放到 typecho/usr/themes，在后台页面-控制台-外观启用。
 
 
+### 功能使用
+
+1. 文章页面插入 Youtube 视频
+
+```html
+# 注意，请移除 iframe 后的 width="560" height="315"
+# 自行替换 iframe 代码，可以在 Youtube 分享按钮处获取
+# 使用这种方式可以让视频窗口自适应页面大小
+
+<div class="video-container">
+
+<iframe src="https://www.youtube.com/embed/KoH80rxtTlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+```
+
+2. 使用代码高亮
+
+在代码块的首行 ``` 后输入代码语言即可，若不支持您所使用的语言，请到 Prismjs [官网](https://prismjs.com/download.html#themes=prism-solarizedlight&languages=markup+css+clike+javascript)，下载您个性定制的 CSS 和 JS  文件，在上传到主题对应的文件夹替换原文件即可。
+
+可以参考这篇[文章](https://blog.tongmingzhi.com/2023/05/25/617.html)
+
+
+
 ### 更新记录
 
 * 2023.05.25  Ver:0.1.2    新增代码高亮显示
