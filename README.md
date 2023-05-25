@@ -58,7 +58,7 @@ Salome-for-Typecho 主题模版
 
 ### 功能使用
 
-* 文章页面插入 Youtube 视频
+* 文章页面嵌入 Youtube 视频
 
 ```html
 # 自行替换 iframe 代码，可以在 Youtube 分享按钮处获取
