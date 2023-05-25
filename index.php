@@ -4,7 +4,7 @@
  * 
  * @package Salome
  * @author teeengmod26
- * @version 0.1.0
+ * @version 0.1.2
  * @link https://blog.tongmingzhi.com
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

@@ -35,6 +35,10 @@
     <link rel="shortcut icon" href="/usr/themes/Salome/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="https://i.328888.xyz/2023/04/19/i6EB2z.jpeg" />
 
+    <!-- 代码高亮 -->
+    <link rel="stylesheet" href="<?php $this->options->themeUrl(); ?>css/prism.css">
+    <script src="<?php $this->options->themeUrl(); ?>js/prism.js"></script>
+
 </head>
 
 <body>
