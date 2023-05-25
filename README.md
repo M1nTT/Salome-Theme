@@ -74,7 +74,7 @@ Salome-for-Typecho 主题模版
 
 2. 使用代码高亮
 
-在代码块的首行 ``` 后输入代码语言即可，若不支持您所使用的语言，请到 Prismjs [官网](https://prismjs.com/download.html#themes=prism-solarizedlight&languages=markup+css+clike+javascript)，下载您个性定制的 CSS 和 JS  文件，在上传到主题对应的文件夹替换原文件即可。
+在代码块的首行 ``` 后输入代码语言即可，若不支持您所使用的语言，请到 Prismjs [官网](https://prismjs.com/download.html#themes=prism-solarizedlight&languages=markup+css+clike+javascript)，下载您个性定制的 CSS 和 JS  文件，再上传到主题对应的文件夹替换原文件即可。
 
 可以参考这篇[文章](https://blog.tongmingzhi.com/2023/05/25/617.html)
 
