@@ -44,12 +44,6 @@ Salome-for-Typecho 主题模版
 > 探讨过这个话题
 
 
-
-### 演示地址
-
-[https://blog.tongmingzhi.com](https://blog.tongmingzhi.com)
-
-
 ### 使用方式
 
 * [下载](https://github.com/M1nTT/Salome-Theme/releases/download/ver.0.1.2/Salome.zip)
